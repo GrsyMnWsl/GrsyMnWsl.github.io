@@ -12,17 +12,20 @@
     <body>
         <div class="navbar">
             <a class="nav-link" href="index.html">Home</a>
-            <a class="nav-link" href="bio/bio.html">Biography</a>
-            <a class="nav-link" href="arti/arti.html">Artifacts</a>
+            <a class="nav-link" href="bio.html">Biography</a>
+            <a class="nav-link" href="arti.html">Artifacts</a>
         </div>
         <hr>
-        <p class="contactbody">Feel free to reach out to me if you have any questions.</p>
+        <p class="contactbody">Feel free to reach out to me if you have any questions.  Below is my contact info and various links to other sites that might be of interest.</p>
 
         <h1>Contact Me:</h1>
-        
+
         <div id="contact">
             <a href="mailto:jgray7883@gmail.com">Email</a>
             <p>Phone: 323-533-XXXX</p>
+            <a href="https://www.linkedin.com/in/joey-gray/">linkedIn</a>
+            <a href="https://www.artstation.com/grsymnwsl">Artstation</a>
+            <a href="https://github.com/GrsyMnWsl">GitHub</a>
         </div>
     </body>
 </html>
