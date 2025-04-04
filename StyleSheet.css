@@ -1,12 +1,30 @@
+/* general */
+body{
+    background-color: #FAFAFA;
+}
+.sep{
+    color: #7D687A;
+    
+}
 /* Navbar */
 .navbar{
     text-align: left;
+    background-color: #82778F;
+    color: #FAFAFA;
 }
 /* index */
 
 /* contact */
+#contitle{
+    text-align:center;
+
+}
 .contactbody{
     text-align: center;
+}
+#contact{
+    text-align: center;
+    background-color: #FAFAFA;
 }
 /* artifacts */
 
@@ -14,7 +32,9 @@
 #name{
     text-align: center;
 }
-
 #biobody{
     text-align: center;
+}
+#image{
+    
 }
