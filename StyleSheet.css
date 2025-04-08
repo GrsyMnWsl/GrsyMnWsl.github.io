@@ -4,13 +4,17 @@ body{
 }
 .sep{
     color: #FAFAFA;
-    
+    border: none;
+    height: 5px;
+    background-color: #FAFAFA;
 }
 /* Navbar */
 .navbar{
-    text-align: left;
+    align-items: center;
+    overflow: hidden;
     background-color: #154C79;
     color: #FAFAFA;
+    height: 75px;
 }
 /* index */
 
@@ -24,7 +28,7 @@ body{
 }
 #contact{
     text-align: center;
-    background-color: #FAFAFA;
+    background-color: #76B5C5;
 }
 /* artifacts */
 
