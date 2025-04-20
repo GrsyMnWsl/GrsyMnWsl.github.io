@@ -33,7 +33,9 @@ body{
     background-color: #76B5C5;
 }
 /* artifacts */
-
+#artititle{
+    text-align: center;
+}
 /* biography */
 #name{
     text-align: center;
