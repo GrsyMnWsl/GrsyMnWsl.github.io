@@ -20,10 +20,12 @@ body{
 #indextitle{
     text-align: center;
 }
+#indexbody{
+    text-align: center;
+}
 /* contact */
 #contitle{
     text-align:center;
-
 }
 .contactbody{
     text-align: center;
@@ -36,6 +38,9 @@ body{
 #artititle{
     text-align: center;
 }
+#artititletwo{
+    text-decoration-line: underline;
+}
 /* biography */
 #name{
     text-align: center;
@@ -45,7 +50,6 @@ body{
 }
 #biotitle{
     text-decoration-line: underline;
-    
 }
 #list{
     text-align: left;
