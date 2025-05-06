@@ -1,12 +1,13 @@
 /* general */
 body{
     background-color: #8D8E8E;
+    color: #FAFAFA;
 }
 .sep{
     color: #FAFAFA;
     border: none;
     height: 5px;
-    background-color: #475B5A;
+    background-color: #3c4848;
 }
 /* Navbar */
 .navbar{
