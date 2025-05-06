@@ -1,19 +1,19 @@
 /* general */
 body{
-    background-color: #76B5C5;
+    background-color: #8D8E8E;
 }
 .sep{
     color: #FAFAFA;
     border: none;
     height: 5px;
-    background-color: #FAFAFA;
+    background-color: #475B5A;
 }
 /* Navbar */
 .navbar{
     align-items: center;
     overflow: hidden;
-    background-color: #154C79;
-    color: #FAFAFA;
+    background-color: #52D1DC;
+    color: #475B5A;
     height: 75px;
 }
 /* index */
@@ -32,7 +32,7 @@ body{
 }
 #contact{
     text-align: center;
-    background-color: #76B5C5;
+    background-color: #8D8E8E;
 }
 /* artifacts */
 #artititle{
